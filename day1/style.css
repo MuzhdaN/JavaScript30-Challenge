@@ -1,0 +1,51 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    margin-top: 5rem;
+    text-align: center;
+}
+
+.keys {
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 50vh;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    gap: 10px;
+}
+
+.key {
+    display: flex;
+    flex-direction: column;
+    border: 3px solid rgb(124, 19, 229);
+    margin: 1rem;
+    padding: 1.1rem;
+    font-size: 1.5rem;
+    text-align: center;
+    background: rgba(255, 0, 234, 0.341);
+    color: #fff;
+    box-shadow: 0 0 10px #8800ff;
+    transition: all .07s ease;
+}
+
+kbd {
+    font-weight: bold;
+    display: block;   
+}
+
+.sound {
+    color: #8800ff;
+    text-transform: capitalize;
+    letter-spacing: 0.3rem;
+}
+
+.playing {
+    transform: scale(1.1);
+    border-color: #ffc600;
+    box-shadow: 0 0 1rem #ffc600;
+  }
