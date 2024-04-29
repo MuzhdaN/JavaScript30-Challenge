@@ -1,6 +1,6 @@
 ## Drum Kit
 
-It's a simple drum kit application where pressing keys on the keyboard triggers corresponding drum sounds.Live Demo()
+It's a simple drum kit application where pressing keys on the keyboard triggers corresponding drum sounds. [Live Demo](https://muzhdan.github.io/JavaScript30-Challenge/day1/index.html)
 
 ### Features
 
