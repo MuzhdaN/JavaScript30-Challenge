@@ -13,3 +13,7 @@ This clock app is a simple web-based analog clock that displays the current time
 - HTML
 - CSS
 - JavaScript
+
+### Credits  
+
+<a href="https://www.flaticon.com/free-icons/clock" title="clock icons">Clock icons created by Those Icons - Flaticon</a>
